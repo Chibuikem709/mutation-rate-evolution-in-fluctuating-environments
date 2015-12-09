@@ -27,8 +27,6 @@
         p_fix = zeros(1, num_reps);
         s = zeros(1, num_reps);
         rel_fit = zeros(1, num_reps);
-        f1 = zeros(1, num_reps);
-        f2 = zeros(1, num_reps);
         g1 = [0,1];
         g2 = [0,0];
         env = [0,0];
